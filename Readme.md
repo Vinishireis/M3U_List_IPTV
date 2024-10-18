@@ -23,6 +23,7 @@ Este repositório contém listas de canais IPTV atualizadas para 2024. Você pod
 
 - [Lista_de_800_canais_2024.m3u](https://github.com/Vinishireis/M3U_List_IPTV/blob/7e9c7a7d22b77c201c0ba5e63f29fc22b0288fe6/Lista_de_800_canais_2024.m3u)
 - [TV_Canais_IPTV.m3u](https://github.com/Vinishireis/M3U_List_IPTV/blob/7e9c7a7d22b77c201c0ba5e63f29fc22b0288fe6/TV_Canais_IPTV.m3u)
+- [M3U_List_18_10_24](https://github.com/Vinishireis/M3U_List_IPTV/blob/0164de7210f61bd78bb63047e35269f48ae3c833/M3U_List_18_10_24.m3u)
 
 ## Contribuição
 
