@@ -2,11 +2,6 @@
 
 Este repositório contém listas de canais IPTV atualizadas para 2024. Você pode usar essas listas para acessar diversos canais de TV por meio de players compatíveis com o formato `.m3u`.
 
-## Arquivos Disponíveis
-
-- **Lista_de_800_canais_2024.m3u**: Uma lista com 800 canais de TV, atualizada para 2024.
-- **TV_Canais_IPTV.m3u**: Outra lista com uma seleção variada de canais IPTV.
-
 ## Como Usar
 
 1. Faça o download de um dos arquivos `.m3u` ou copie o link do arquivo.
