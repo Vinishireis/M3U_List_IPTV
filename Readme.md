@@ -2,11 +2,6 @@
 
 Este repositório contém listas de canais IPTV atualizadas para 2024. Você pode usar essas listas para acessar diversos canais de TV por meio de players compatíveis com o formato `.m3u`.
 
-## Arquivos Disponíveis
-
-- **Lista_de_800_canais_2024.m3u**: Uma lista com 800 canais de TV, atualizada para 2024.
-- **TV_Canais_IPTV.m3u**: Outra lista com uma seleção variada de canais IPTV.
-
 ## Como Usar
 
 1. Faça o download de um dos arquivos `.m3u` ou copie o link do arquivo.
@@ -18,12 +13,6 @@ Este repositório contém listas de canais IPTV atualizadas para 2024. Você pod
 - Abra o VLC Media Player.
 - Vá para "Mídia" e depois "Abrir Arquivo" ou "Abrir Fluxo de Rede".
 - Cole o link direto para o arquivo `.m3u` ou abra o arquivo localmente.
-
-## Links Diretos para as Listas
-
-- [Lista_de_800_canais_2024.m3u](https://github.com/Vinishireis/M3U_List_IPTV/blob/7e9c7a7d22b77c201c0ba5e63f29fc22b0288fe6/Lista_de_800_canais_2024.m3u)
-- [TV_Canais_IPTV.m3u](https://github.com/Vinishireis/M3U_List_IPTV/blob/7e9c7a7d22b77c201c0ba5e63f29fc22b0288fe6/TV_Canais_IPTV.m3u)
-- [M3U_List_18_10_24](https://github.com/Vinishireis/M3U_List_IPTV/blob/0164de7210f61bd78bb63047e35269f48ae3c833/M3U_List_18_10_24.m3u)
 
 ## Contribuição
 
